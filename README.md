@@ -1,6 +1,10 @@
 # pure-book
 
+####项目预览图：
+![](https://github.com/ZhouWeiPeng/projectPreviewImg/blob/master/pure-book.gif?raw=true)
+
 #### 本项目用到了两个api
+
 ```
 https://xiadd.github.io/zhuishushenqi/#/
 这个获取数据的速度慢一点，但是功能齐全
