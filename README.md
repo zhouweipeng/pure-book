@@ -1,7 +1,7 @@
 # pure-book
 
 ####项目预览图：
-![](https://github.com/ZhouWeiPeng/projectPreviewImg/blob/master/pure-book.gif?raw=true)
+![预览图失效](https://github.com/ZhouWeiPeng/projectPreviewImg/blob/master/pure-book.gif?raw=true)
 
 #### 本项目用到了两个api
 
